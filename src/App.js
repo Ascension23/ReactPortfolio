@@ -1,9 +1,12 @@
-import React from 'react'
-import Nav from './components/Navbar'
+import React from 'react';
+import NavMenu from './components/Navbar';
+import './index.css'
 
 function App() {
   return (
-    <Nav />
+    <>
+      <NavMenu />
+    </>
   );
 }
 
