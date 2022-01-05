@@ -16,10 +16,16 @@ let resumeData = {
     'url':'http://github.com/Ascension23',
     'className':'fa fa-github'
     },
+    {
+        'name':'email',
+        'url':'tygor23@gmail.com',
+        'className':'fa fa-envelope'
+        },
     ],
-    'aboutme':"My name is Adrian Aguilar, and I am a Full Stack Developer. I live in Sacramento, CA and I'm currently enrolled in the UC Davis Full Stack Development program where I am honing my skills every day and adding new ones to my repertoire. My goal is to take the skills learned in my current program into a career and become a valued member of a team. My past jobs have given me the skills to work in a team environment as well as working alone when tackling tasks. I am eager to find my place in a company in need of my skills.",
+    'aboutme':"My name is Adrian Aguilar, and I am a Full Stack Developer. I live in Sacramento, CA and I've recently completed the UC Davis Full Stack Development program and I am honing my skills every day while adding new ones to my repertoire. My goal is to take the skills learned in through the program into a career and become a valued member of a team. My past jobs have given me the skills to work in a team environment as well as working alone when tackling tasks. I am eager to find my place in a company in need of my skills.",
     'address':'Sacramento, CA',
     'website':'https://github.com/Ascension23',
+    'email':'tygor23@gmail.com',
     'education':[
     {
     'UniversityName':'UC Davis',
@@ -52,7 +58,7 @@ let resumeData = {
     // 'Achievements':'Some Achievements'
     }
     ],
-    'skillsDescription':'Your skills here',
+    'skillsDescription':'',
     'skills':[
     {
     'skillname':'HTML5'
@@ -96,8 +102,8 @@ let resumeData = {
     'name':'Some technical guy'
     },
     {
-    'description':'This is a sample testimonial',
-    'name':'Some technical guy'
+    'description':'An incredible attention to detail is the first thing that comes to mind. I had the pleasure of working with Adrian for six months during our time together immersed in the University of California, Davis Coding Bootcamp. Adrian was always a great resource when I had questions about various technology documentation and has a shaper eye than any linter when my code had bugs. Any team would be lucky to have Adrian onboard!',
+    'name':'Scott Lawan'
     }
     ]
     }

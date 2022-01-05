@@ -7,7 +7,7 @@ return (
 <section id='about'>
 <div className='row'>
 <div className='three columns'>
-<img className='profile-pic' src='images/profile.jpg' alt='' />
+<img className='profile-pic' src='../images/profile.jpg' alt='Adrian Aguilar' />
 </div>
 <div className='nine columns main-col'>
 <h2>About Me</h2>
@@ -27,6 +27,8 @@ resumeData.aboutme
 </span>
 <br></br>
 <span>{resumeData.website}</span>
+<br></br>
+<span>{resumeData.email}</span>
 </p>
 </div>
 </div>
